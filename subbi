@@ -1,0 +1,7 @@
+You have a Snowflake account that is configured to use Amazon Web Services (AWS) and a user with a role that grants the necessary privileges to create a database, tables, and virtual warehouse objects.
+
+You have SnowSQL installed.
+
+Refer to the Snowflake in 20 Minutes for instructions to meet these requirements.
+
+Snowflake provides sample data files in a public Amazon S3 bucket for use in this tutorial. But before you start, you need to create a database, tables, and a virtual warehouse for this tutorial. These are the basic Snowflake objects needed for most Snowflake activities.
